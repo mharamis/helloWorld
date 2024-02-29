@@ -1,0 +1,31 @@
+p {
+    color: darkslategray;
+    font-size: 13px;
+}
+
+h2 {
+    color: coral;
+    font-size: 16px;
+}
+
+<!--Provide various website hyperlinks -->
+
+table, td, th {
+    border-style: double;
+    border-width: 2px;
+    border-color: indianred;
+}
+
+p#special {
+    color: purple;
+    font-size: 15px;
+}
+
+p.bolded {
+    font-weight: bold;
+}
+
+img.logo {
+    height: 80px;
+    width: 222px;
+}
