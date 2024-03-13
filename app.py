@@ -19,5 +19,10 @@ def about():
 def aboutcss():
     return render_template('about-css.html')
 
+@app.route('/profit-summary')
+def aboutcss():
+    return render_template('profit-summary.html')
+
+
 if __name__ == '__main__':
     app.run(debug=True)
