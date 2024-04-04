@@ -1,3 +1,4 @@
+
 from app import app, db
 from models import Student, Major
 import datetime as dt
